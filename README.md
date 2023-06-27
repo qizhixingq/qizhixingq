@@ -7,3 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonesky0315&langs_count=10&exclude_repo=dotfiles&hide_border=true&layout=compact)](https://alonesky0315.github.io)
 
 ![](https://github-profile-trophy.vercel.app/?username=alonesky0315&column=4&margin-w=8&margin-h=6)
+
+[欢迎访问我的博客：https://blog.alonesky.com](https://blog.alonesky.com)
